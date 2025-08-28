@@ -2,6 +2,7 @@ git init
 
 git add "Git Commands.txt"
 
+
 git status 
 
 git diff
@@ -9,3 +10,8 @@ git diff
 git add .
 
 git commit -m "learning to commit"
+
+-- i wish to learn how to merge conflicts and 
+
+replace the changes and merge properly
+
